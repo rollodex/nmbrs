@@ -127,3 +127,14 @@ html {
   background-color: #ffffff;
   color: #000000;
 }
+
+.btn {
+  border-color: #ffa8c1;
+  border-width: 4;
+}
+
+.btn:hover {
+  border-color: #e1e4ff;
+  color: #e1e4ff;
+  border-width: 4;
+}
